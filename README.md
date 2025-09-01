@@ -28,7 +28,7 @@ I'm a passionate Senior ICT & AV Technician / Junior Web Developer with experien
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-My Portfolio is a personal website to showcase my skills, track my learning, and document my development journey built with HTML, CSS, and Tailwind. This project demonstrates my ability to Web Development, Responsive Design, UI/UX Design, Version Control, Continuous Learning. You can check out the repository [here](https://github.com/joshua-odubu/Portfolio.)
+My Portfolio is a personal website to showcase my skills, track my learning, and document my development journey built with HTML, CSS, and Tailwind. This project demonstrates my ability to Web Development, Responsive Design, UI/UX Design, Version Control, Continuous Learning. You can check out the repository [here](https://github.com/joshua-odubu/Portfolio.git)
 
 <!-- ### [Project 2 Title](project_2_link)
 
