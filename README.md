@@ -1,6 +1,6 @@
 # Hi there, I'm Joshua Odubu! 👋
 
-![Alt text](assets)
+![Alt text](https://github.com/joshua-odubu/joshua-odubu/blob/main/assets/GitHub%20Banner.png)
 
 ## About Me 🚀
 
